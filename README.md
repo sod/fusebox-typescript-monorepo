@@ -2,7 +2,7 @@
 git clone git@github.com:sod/fusebox-typescript-monorepo.git
 cd fusebox-typescript-monorepo/app
 npm install
-node fust.js
+node fuse.js
 ```
 
 Then open http://localhost:4444
